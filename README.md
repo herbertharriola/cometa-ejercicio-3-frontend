@@ -1,5 +1,5 @@
-# Frontend - Orden de Cervezas (React + TypeScript + Material UI)
-Este es el frontend de la aplicación "Bar de Cervezas", desarrollado con React, TypeScript y Material UI.
+# Frontend - Libros desde NYT (React + TypeScript + Material UI)
+Este es el frontend de la aplicación "Libros desde NYT", desarrollado con React, TypeScript y Material UI.
 
 # Requisitos Previos
 Antes de comenzar, asegúrate de tener instalados:
