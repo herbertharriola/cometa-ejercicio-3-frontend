@@ -19,3 +19,6 @@ Para iniciar el frontend en http://localhost:5173, usa:
 - npm run dev
 
 Si todo está correcto, React se ejecutará en http://localhost:5173.
+
+# Diagramas de secuencia
+Los diagramas se encuentran en la carpeta "diagrams" dentro del proyecto
